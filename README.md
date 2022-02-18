@@ -1,5 +1,5 @@
 # Euphoria Tweaks
-### Some simple front--end tweaks to euphoria.io, specifically &xkcd
+### Some simple front-end tweaks to euphoria.io, specifically &xkcd
 
 To change the room the script applies to, change the @namespace and @include url's to match. 
 
